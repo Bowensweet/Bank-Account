@@ -50,7 +50,7 @@ def view_account_information(account):
 
 
 def main():
-    print("Welcome to Bowen Bank!")
+    print("Welcome to Bowen Bank, you broke boi!")
     name = input("Please enter your name: ")
     account = BankAccount(name)
 
